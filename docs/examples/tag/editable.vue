@@ -30,7 +30,7 @@ import { ElInput } from 'element-plus'
 import type { InputInstance } from 'element-plus'
 
 const inputValue = ref('')
-const dynamicTags = ref(['Tag 1', 'Tag 2', 'Tag 3'])
+const dynamicTags = ref(['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4'])
 const inputVisible = ref(false)
 const InputRef = ref<InputInstance>()
 
